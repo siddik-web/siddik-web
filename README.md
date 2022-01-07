@@ -1,5 +1,8 @@
-### Hi there 👋
-I am **Md Siddiqur Rahman**, *Senior Software Engineer* at [JoomShaper](https://joomshaper.com).
+### Hi there 👋 I am **Md Siddiqur Rahman**,  
+- 🔭 I’m currently working on [JoomShaper](https://joomshaper.com), *Senior Software Engineer*.
+
+- 🌱 I’m currently learning `JavaScript` `PHP`
+
 <!--
 **siddik-web/siddik-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
