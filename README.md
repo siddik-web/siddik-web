@@ -1,7 +1,7 @@
 ### Hi there 👋 I am **Md Siddiqur Rahman**,  
-- 🔭 I’m currently working on [JoomShaper](https://joomshaper.com), *Senior Software Engineer*.
+- 🔭 I’m currently working on [Ollyo](https://ollyo.com), *Senior Staff Software Engineer*.
 
-- 🌱 I’m currently learning `JavaScript` `PHP`
+- 🌱 I’m currently working using `JavaScript` `PHP`
 
 <!--
 **siddik-web/siddik-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
