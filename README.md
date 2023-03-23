@@ -1,5 +1,5 @@
 ### Hi there 👋 I am **Md Siddiqur Rahman**,  
-- 🔭 I’m currently working on [Ollyo](https://ollyo.com), *Senior Staff Software Engineer*.
+- 🔭 I’m currently working at [Ollyo](https://ollyo.com) as *Senior Staff Software Engineer*.
 
 - 🌱 I’m currently working using `JavaScript` `PHP`
 
